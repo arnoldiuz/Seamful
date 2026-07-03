@@ -29,3 +29,5 @@ Navigate to the ChatGPT interface and type a prompt intended for image generatio
 
 ## Academic Context
 This repository contains the functional software artifact for the Bachelor Thesis investigating seamful design, algorithmic world-making, and AI literacy. The codebase prioritizes epistemological disruption over seamless utility, utilizing direct Document Object Model manipulation to physically test theories of Human-Computer Interaction and Critical Media Theory.
+
+Note on Algorithmic Fluidity: Commercial AI models are continuously updated. While the underlying aesthetic scoring (e.g., optimizing for flawless skin or thin body types) remains rigid, the LLM prompt-upsampling that forces demographic diversity changes frequently. This prototype captures and critiques the systemic mechanics of these interventions, regardless of the daily shifts in the model's specific demographic outputs.
