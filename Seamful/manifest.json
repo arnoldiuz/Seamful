@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Seamful Design: Algorithmic Friction",
+  "version": "1.0",
+  "description": "Exposing hidden biases in generative AI through critical friction.",
+  "action": {
+    "default_title": "Seamful Interventions"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["css/modern_friction.css"],
+      "js": [
+        "data/bias_lexicon.js",
+        "scripts/ui.js",
+        "scripts/content.js"
+      ],
+      "all_frames": true 
+    }
+  ]
+}
